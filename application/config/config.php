@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'http://www.codeigniterdev.com/';
 
 /*
 |--------------------------------------------------------------------------
@@ -224,7 +224,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '6ca7798e68c71b88ab498d48bb6a56e9';
+$config['encryption_key'] = '';
 
 /*
 |--------------------------------------------------------------------------
